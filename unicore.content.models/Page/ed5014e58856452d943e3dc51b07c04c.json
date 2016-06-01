@@ -1,0 +1,31 @@
+{
+  "subtitle": "", 
+  "description": "Babies are little scientists ", 
+  "language": "eng_GB", 
+  "title": "Play and communication with 6-9 month babies", 
+  "primary_category": "353c2ec6db2f46d1b4cf755b71d73d22", 
+  "created_at": "2016-04-20T13:40:58.659068+00:00", 
+  "featured_in_category": false, 
+  "modified_at": "2016-04-20T13:40:58.659288+00:00", 
+  "_version": {
+    "package_version": "1.4.4", 
+    "language_version": "2.7.6", 
+    "language": "python", 
+    "language_version_string": "2.7.6 (default, Jun 22 2015, 18:01:27) \n[GCC 4.8.2]", 
+    "package": "elastic-git"
+  }, 
+  "linked_pages": [
+    "570e423536954d2fa51926804278327b"
+  ], 
+  "id": null, 
+  "content": "DID YOU KNOW? \r\n\r\n- Babies experiment casual effect relationships. \r\n\r\n- Babies experiment how objects fall, how to make a noise, their arms and legs resistance and force.\r\n\r\n- Babies enjoy making noises by hitting or banging with a cup and other objects.  This may be frustrating for busy mothers and fathers but it is important to be patient as the child is learning through this play.\r\n\r\n- Even before children say words, they learn from what is being said to them, and can understand a lot. \r\n\r\n- Babies notice when people express strong anger, and may be upset by it.\r\n\r\n- Babies copy the sounds and actions of others.\r\n\r\n- Babies like other people to respond to the sounds they are making and to show an interest in the new things they notice.\r\n\r\n- A baby can recognize his name before he can say it. Hearing her/his name helps the child know that she/he is a special person in the family. \r\n\r\nNext article:\r\n", 
+  "source": null, 
+  "featured": false, 
+  "author_tags": [], 
+  "image": "c01d52be836342cab91292db0a9b7cd1", 
+  "published": null, 
+  "position": 0, 
+  "image_host": "http://thumbor.unicore.io", 
+  "slug": "play-and-communication-6-9-month-babies", 
+  "uuid": "ed5014e58856452d943e3dc51b07c04c"
+}
